@@ -1,0 +1,41 @@
+.pit
+{
+    position: absolute;
+    height: 100px;
+    width: 300px;
+    top: 100%;
+    right:20% ;
+}
+.fuc
+{
+    height: 200px;
+    width: 400px;
+}
+#sam
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#akay
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.u 
+{
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    top: 187%;
+    left: 52%;
+}
+.bottom-container
+{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 20px;
+
+}
